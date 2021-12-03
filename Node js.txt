@@ -1,0 +1,7 @@
+1) Node js nima?
+2) Birinchi script
+3) npm nima?
+4) global obyekt va modullar
+5) Standart modullar Path
+6) fs moduli
+7) os moduli
